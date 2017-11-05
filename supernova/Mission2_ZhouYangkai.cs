@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace miscrosoft_wjq_homework
+namespace miscrosoft_homework
 {
     class Complex
 
